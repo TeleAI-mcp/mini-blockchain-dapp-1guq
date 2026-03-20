@@ -1,2 +1,3 @@
-# mini-blockchain-dapp-1guq
-A blockchain decentralized application for modern development workflows
+# Mini Blockchain Dapp 1Guq
+
+A blockchain decentralized application for modern development workflows.
